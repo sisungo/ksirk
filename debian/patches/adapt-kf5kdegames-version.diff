@@ -1,0 +1,11 @@
+--- ksirk-21.08.0.orig/CMakeLists.txt
++++ ksirk-21.08.0/CMakeLists.txt
+@@ -30,7 +30,7 @@ find_package(KF5 ${KF5_MIN_VERSION} REQU
+     XmlGui
+ )
+ 
+-find_package(KF5KDEGames 4.9.0 REQUIRED)
++find_package(KF5KDEGames 7.5 REQUIRED)
+ find_package(Phonon4Qt5 REQUIRED)
+ 
+ include(FeatureSummary)

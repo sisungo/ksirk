@@ -1,0 +1,11 @@
+--- ksirk-21.08.0.orig/ksirk/Dialogs/newGameDialogImpl.cpp
++++ ksirk-21.08.0/ksirk/Dialogs/newGameDialogImpl.cpp
+@@ -28,7 +28,7 @@
+ #include <QStandardPaths>
+ #include <KMessageBox>
+ #include <KConfigDialog>
+-#include <downloaddialog.h>
++#include <KF5/KNewStuff3/KNS3/downloaddialog.h>
+ 
+ #include <QDir>
+ #include <QStringList>

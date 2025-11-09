@@ -1,3 +1,9 @@
+ksirk (4:21.08.0-1deepin1) unstable; urgency=medium
+
+  * fix: adapt KF5KDEGames version to newer system one
+
+ -- sisungo <sisungo@icloud.com>  Sun, 9 Nov 2025 19:21:33 +0800
+
 ksirk (4:21.08.0-1) unstable; urgency=medium
 
   [ Norbert Preining ]
